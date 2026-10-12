@@ -54,7 +54,7 @@ const resultsData = {
     },
     B: {
         title: "Remaja Jompo",
-        desc: "Berjiwa tua yang terjebak di tubuh muda. Energimu gampang habis (low battery) dan butuh kenyamanan ekstra. Usia boleh 20-an, tapi tulang punggung berasa kayak pensiunan PNS. Isi tasmu bukan makeup atau gadget, tapi FreshCare, Tolak Angin, dan koyo.."
+        desc: ""
     },
     C: {
         title: "Warga Penonton Proyek Jalanan",
